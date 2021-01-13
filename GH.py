@@ -1,4 +1,5 @@
-class Node:
+#updating in a code
+lasss Node:
   def __init__(self,data):
     self.data = data
     self.next = None 
